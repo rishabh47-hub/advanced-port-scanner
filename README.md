@@ -37,7 +37,7 @@ Found 1 live hosts. Scanning ports (TCP)...
 192.168.0.1 -> [80]
 Scan finished: 2025-11-13 21:24:40.527
 Duration: 0:00:04.527040
-
+Screenshot 2025-11-13 211125.png
 
 🚀 Features
 
